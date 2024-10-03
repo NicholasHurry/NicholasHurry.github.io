@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am Nicholas Hurry, a marketing professional with a focus on digital marketing, SEO, and content creation. With an Honors Bachelor of Commerce from Ontario Tech University and hands-on experience using WordPress, Adobe Creative Suite, and Google Analytics, I’ve developed skills in SEO optimization and digital design. I bring adaptability, creativity, and a passion for delivering impactful marketing solutions.
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/nicholas-hurry-aab15a161/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
