@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/nicholas_hurry_catologue.pdf)
+[Project 1 Title](/pdf/nicholas_hurry_catalogue.pdf)
 <img src="images/PartyAdvertisement.PNG?raw=true"/>
 
 ---
