@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Catalogue Page](/pdf/nicholas_hurry_catalogue.pdf)
 <img src="images/PartyAdvertisement.PNG?raw=true"/>
 
