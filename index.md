@@ -25,7 +25,7 @@ Seneca Poster Ad
 
 ---
 Hydration product Ad
-<img src="images/nicholashurry.jpg?raw=true"/>
+<img src="images/hurrynicholas.jpg?raw=true"/>
 
 ---
 ### Category Name 2
