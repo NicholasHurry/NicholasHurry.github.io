@@ -12,7 +12,7 @@
 <img src="images/90-deg-mockup.jpg?raw=true"/>
 
 ---
-[Gienvo Product Image]
+[Website Product Image]
 <img src="images/BigWSmall_1.png?raw=true"/>
 
 ---
