@@ -16,7 +16,18 @@ Website Product Image
 <img src="images/BigWSmall_1.png?raw=true"/>
 
 ---
+Magazine Page
+<img src="images/BOOMcomplete.jpg?raw=true"/>
 
+---
+Seneca Poster Ad
+<img src="images/SenecaTestAd.jpg?raw=true"/>
+
+---
+Hydration product Ad
+<img src="images/nicholashurry.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
