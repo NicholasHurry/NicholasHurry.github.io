@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/nicholas_hurry_catalogue.pdf)
+[Catalogue Page](/pdf/nicholas_hurry_catalogue.pdf)
 <img src="images/PartyAdvertisement.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Photography App Mockup](/pdf/sample_presentation.pdf)
 <img src="images/90-deg-mockup.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Gienvo Product Image](http://example.com/)
 <img src="images/BigWSmall_1.png?raw=true"/>
 
 ---
