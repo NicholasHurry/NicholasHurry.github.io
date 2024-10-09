@@ -2,11 +2,11 @@
 
 ---
 
-[Catalogue Page](/pdf/nicholas_hurry_catalogue.pdf)
+Catalogue Page
 <img src="images/PartyAdvertisement.PNG?raw=true"/>
 
 ---
-[Photography App Mockup](/pdf/sample_presentation.pdf)
+Photography App Mockup
 <img src="images/90-deg-mockup.jpg?raw=true"/>
 
 ---
@@ -24,18 +24,6 @@ Seneca Poster Ad
 ---
 Hydration product Ad
 <img src="images/hurrynicholas.jpg?raw=true"/>
-
----
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
